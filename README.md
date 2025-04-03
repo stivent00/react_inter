@@ -1,12 +1,63 @@
-# React + Vite
+# 📌 SPA con React y Bootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una **Single Page Application (SPA)** desarrollada en **React.js** que consume la API pública [JSONPlaceholder](https://jsonplaceholder.typicode.com/). Permite ver una lista de artículos visualizados en tarjetas **Bootstrap** con título y descripción.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Características
 
-## Expanding the ESLint configuration
+- 📌 Listado de publicaciones con título, descripción y autor.
+- 🔍 Búsqueda en tiempo real por título.
+- 🎨 Diseño responsivo con **Bootstrap**.
+- 🌍 Consumo de API pública [JSONPlaceholder] con `fetch`.
+- ⚡ Aplicación rápida y ligera.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 📸 Capturas de pantalla
+
+| Desktop (1920×1080)| Tablet (1024x1366) | Mobile (430x932) |
+|----------------------|----------------------|
+| ![Desktop](assets/screenshots/desktop.JPG) | ![Tablet](assets/screenshots/ipad.JPG) | ![Mobile](assets/screenshots/iphone.JPG) |
+
+---
+
+## ⚡ Instalación
+
+### 1️ Clona este repositorio
+
+```bash
+git clone https://github.com/stivent00/react_inter.git
+cd react_inter
+```
+
+### 2️⃣ Instala las dependencias
+
+```bash
+npm install
+```
+
+### 3️⃣ Ejecuta la aplicación
+
+```bash
+npm run dev
+```
+
+### 🛠️ Tecnologías utilizadas
+
+✔️ React.js ⚛️  
+✔️ Bootstrap 🎨  
+✔️ Fetch API 🔗  
+✔️ JSONPlaceholder API 📡  
+
+
+### 📄 Licencia  
+
+Este proyecto está bajo la licencia MIT.
+
+
+### 📫 Contacto
+
+📧 Email: dspr124@gmail.com  
+🔗 LinkedIn: [Daniel Perez](https://www.linkedin.com/in/danielperezroa/)

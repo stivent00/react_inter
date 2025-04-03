@@ -34,7 +34,7 @@ export default function App() {
       <div className="container d-lg-flex justify-content-center mb-4">
         <Buscador busqueda={busqueda} enCambioBusqueda={setBusqueda} />
       </div>
-      <div className="container">
+      <div className="container mb-4">
         <ListaArticulos articulos={articulos} busqueda={busqueda} />
       </div>
     </>
