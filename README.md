@@ -18,13 +18,13 @@ Este proyecto es una **Single Page Application (SPA)** desarrollada en **React.j
 ## 📸 Capturas de pantalla
 
 ### Desktop (1920×1080)
-![Desktop](assets/screenshots/desktop.JPG)
+![Desktop](src/assets/screenshots/desktop.JPG)
 
 ### Tablet (1024x1366)
-![Tablet](assets/screenshots/ipad.JPG)
+![Tablet](src/assets/screenshots/ipad.JPG)
 
 ### Mobile (430x932)
-![Mobile](assets/screenshots/iphone.JPG)
+![Mobile](src/assets/screenshots/iphone.JPG)
 
 ---
 
