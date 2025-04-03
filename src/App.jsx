@@ -30,7 +30,7 @@ export default function App() {
           </a>
         </div>
       </nav>      
-      <h1 className="text-center text-white mt-4 mb-4 pt-2">Lista de <span class="t-green">Artículos</span></h1>
+      <h1 className="text-center text-white mt-4 mb-4 pt-2">Lista de <span className="t-green">Artículos</span></h1>
       <div className="container d-lg-flex justify-content-center mb-4">
         <Buscador busqueda={busqueda} enCambioBusqueda={setBusqueda} />
       </div>
